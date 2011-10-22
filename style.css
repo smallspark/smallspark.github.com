@@ -2,3 +2,9 @@ body {
   margin: 0;
   background: #030303 url("bg.png") repeat scroll top left;
 }
+
+#contact {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
